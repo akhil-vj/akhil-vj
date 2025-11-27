@@ -152,7 +152,7 @@ print("Let's build something extraordinary! 🚀")
 <br>Java
 </td>
 <td align="center" width="90">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C" width="55" height="55" />
 <br>C
 </td>
 <td align="center" width="90">
@@ -164,7 +164,7 @@ print("Let's build something extraordinary! 🚀")
 <br>TypeScript
 </td>
 <td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coffeescript/coffeescript-original.svg" alt="CoffeeScript" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/coffee-icon.svg" alt="CoffeeScript" width="55" height="55" />
 <br>CoffeeScript
 </td>
 </tr>
@@ -175,27 +175,27 @@ print("Let's build something extraordinary! 🚀")
 <table>
 <tr>
 <td align="center" width="90">
-<img src="https://www.odoo.com/logo.png" alt="Odoo" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/odoo/odoo-original.svg" alt="Odoo" width="55" height="55" />
 <br>Odoo
 </td>
 <td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="FastAPI" width="55" height="55" />
 <br>FastAPI
 </td>
 <td align="center" width="90">
-<img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="55" height="55" />
 <br>Django
 </td>
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" width="55" height="55" />
 <br>Flask
 </td>
 <td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Node.js" width="55" height="55" />
 <br>Node.js
 </td>
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=express" alt="Express" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="55" height="55" />
 <br>Express
 </td>
 </tr>
@@ -210,19 +210,19 @@ print("Let's build something extraordinary! 🚀")
 <br>React
 </td>
 <td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="55" height="55" />
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" width="55" height="55" />
 <br>Next.js
 </td>
 <td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="55" height="55" />
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind" width="55" height="55" />
 <br>Tailwind CSS
 </td>
 <td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="55" height="55" />
+<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" width="55" height="55" />
 <br>Bootstrap
 </td>
 <td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Material-UI" width="55" height="55" />
+<img src="https://skillicons.dev/icons?i=materialui&theme=dark" alt="Material-UI" width="55" height="55" />
 <br>Material-UI
 </td>
 </tr>
@@ -233,7 +233,7 @@ print("Let's build something extraordinary! 🚀")
 <table>
 <tr>
 <td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/postgres-icon.svg" alt="PostgreSQL" width="55" height="55" />
 <br>PostgreSQL
 </td>
 <td align="center" width="90">
@@ -241,11 +241,11 @@ print("Let's build something extraordinary! 🚀")
 <br>MySQL
 </td>
 <td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="55" height="55" />
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" width="55" height="55" />
 <br>MongoDB
 </td>
 <td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="55" height="55" />
+<img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" width="55" height="55" />
 <br>Redis
 </td>
 </tr>
@@ -260,23 +260,23 @@ print("Let's build something extraordinary! 🚀")
 <br>Docker
 </td>
 <td align="center" width="90">
-<img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
 <br>GitHub
 </td>
 <td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="55" height="55" />
+<img src="https://skillicons.dev/icons?i=gitlab&theme=dark" alt="GitLab" width="55" height="55" />
 <br>GitLab
 </td>
 <td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="55" height="55" />
 <br>Kubernetes
 </td>
 <td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="55" height="55" />
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" width="55" height="55" />
 <br>Linux
 </td>
 <td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="55" height="55" />
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" width="55" height="55" />
 <br>Postman
 </td>
 </tr>
