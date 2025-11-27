@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" height="32"/>
   </a>
   <a href="https://github.com/akhil-vj">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fakhil-vj&count_bg=%2300D9FF&title_bg=%231a1b27&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false" alt="Profile Views" height="32"/>
+    <img src="https://komarev.com/ghpvc/?username=akhil-vj&label=Profile%20Views&color=00D9FF&style=for-the-badge&labelColor=1a1b27" alt="Profile Views" height="32"/>
   </a>
 </p>
 
