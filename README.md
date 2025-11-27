@@ -191,7 +191,7 @@ print("Let's build something extraordinary! 🚀")
 <br>Flask
 </td>
 <td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Node.js" width="55" height="55" />
 <br>Node.js
 </td>
 <td align="center" width="90">
