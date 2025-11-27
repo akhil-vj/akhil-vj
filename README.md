@@ -12,10 +12,10 @@
 
 <!-- Social Badges -->
 <p>
-  <a href="https://linkedin.com/in/akhilvj">
+  <a href="https://linkedin.com/in/akhil-v-j-210d">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/YOUR_USERNAME">
+  <a href="https://instagram.com/akhil_v_j_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=akhil-vj&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
@@ -200,18 +200,15 @@ Full-stack production applications
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  "Code is like humor. When you have to explain it,          │
-│   it's bad."  — Cory House                                  │
-│                                                              │
-│  I believe in writing code that:                            │
-│  ✓ Solves real problems                                     │
-│  ✓ Is maintainable and scalable                             │
-│  ✓ Follows best practices                                   │
-│  ✓ Makes developers' lives easier                           │
-└─────────────────────────────────────────────────────────────┘
-```
+| Philosophy |
+|:-----------|
+| **"Code is like humor. When you have to explain it, it's bad."** — Cory House |
+| |
+| I believe in writing code that: |
+| ✓ Solves real problems |
+| ✓ Is maintainable and scalable |
+| ✓ Follows best practices |
+| ✓ Makes developers' lives easier |
 
 </div>
 
@@ -221,13 +218,13 @@ Full-stack production applications
 
 <div align="center">
 
-<a href="https://linkedin.com/in/akhilvj">
+<a href="https://linkedin.com/in/akhil-v-j-210d">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
 </a>
-<a href="https://instagram.com/YOUR_USERNAME">
+<a href="https://instagram.com/akhil_v_j_">
   <img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"/>
 </a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:akhilvj.creator@gmail.com">
   <img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
 </a>
 
