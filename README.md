@@ -150,7 +150,7 @@ print("Let's build something extraordinary! 🚀")
 <br>Java
 </td>
 <td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="55" height="55" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="55" height="55" />
 <br>C
 </td>
 <td align="center" width="90">
@@ -173,7 +173,7 @@ print("Let's build something extraordinary! 🚀")
 <table>
 <tr>
 <td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/odoo/odoo-original.svg" alt="Odoo" width="55" height="55" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Odoo_Official_Logo.svg/200px-Odoo_Official_Logo.svg.png" alt="Odoo" width="55" height="55" />
 <br>Odoo
 </td>
 <td align="center" width="90">
@@ -185,7 +185,7 @@ print("Let's build something extraordinary! 🚀")
 <br>Django
 </td>
 <td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="55" height="55" />
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="55" height="55" />
 <br>Flask
 </td>
 <td align="center" width="90">
@@ -193,7 +193,7 @@ print("Let's build something extraordinary! 🚀")
 <br>Node.js
 </td>
 <td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="55" height="55" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="55" height="55" />
 <br>Express
 </td>
 </tr>
@@ -235,7 +235,7 @@ print("Let's build something extraordinary! 🚀")
 <br>PostgreSQL
 </td>
 <td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
 <br>MySQL
 </td>
 <td align="center" width="90">
@@ -258,7 +258,7 @@ print("Let's build something extraordinary! 🚀")
 <br>Docker
 </td>
 <td align="center" width="90">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
+<img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" width="55" height="55" />
 <br>GitHub
 </td>
 <td align="center" width="90">
