@@ -146,6 +146,14 @@ print("Let's build something extraordinary! 🚀")
 <br>Python
 </td>
 <td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55" />
+<br>Java
+</td>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="55" height="55" />
+<br>C
+</td>
+<td align="center" width="90">
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
 <br>JavaScript
 </td>
@@ -154,15 +162,7 @@ print("Let's build something extraordinary! 🚀")
 <br>TypeScript
 </td>
 <td align="center" width="90">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55" />
-<br>Java
-</td>
-<td align="center" width="90">
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C" width="55" height="55" />
-<br>C
-</td>
-<td align="center" width="90">
-<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="CoffeeScript" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coffeescript/coffeescript-original.svg" alt="CoffeeScript" width="55" height="55" />
 <br>CoffeeScript
 </td>
 </tr>
@@ -173,27 +173,27 @@ print("Let's build something extraordinary! 🚀")
 <table>
 <tr>
 <td align="center" width="90">
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="55" height="55" />
-<br>Django
-</td>
-<td align="center" width="90">
-<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="55" height="55" />
-<br>FastAPI
-</td>
-<td align="center" width="90">
-<img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="55" height="55" />
-<br>Flask
-</td>
-<td align="center" width="90">
-<img src="https://www.vectorlogo.zone/logos/odoo/odoo-icon.svg" alt="Odoo" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/odoo/odoo-original.svg" alt="Odoo" width="55" height="55" />
 <br>Odoo
 </td>
 <td align="center" width="90">
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="55" height="55" />
+<br>FastAPI
+</td>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="55" height="55" />
+<br>Django
+</td>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="55" height="55" />
+<br>Flask
+</td>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="55" height="55" />
 <br>Node.js
 </td>
 <td align="center" width="90">
-<img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="55" height="55" />
 <br>Express
 </td>
 </tr>
@@ -208,19 +208,19 @@ print("Let's build something extraordinary! 🚀")
 <br>React
 </td>
 <td align="center" width="90">
-<img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="55" height="55" />
 <br>Next.js
 </td>
 <td align="center" width="90">
-<img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="55" height="55" />
 <br>Tailwind CSS
 </td>
 <td align="center" width="90">
-<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="55" height="55" />
 <br>Bootstrap
 </td>
 <td align="center" width="90">
-<img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material-UI" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Material-UI" width="55" height="55" />
 <br>Material-UI
 </td>
 </tr>
@@ -231,19 +231,19 @@ print("Let's build something extraordinary! 🚀")
 <table>
 <tr>
 <td align="center" width="90">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="55" height="55" />
 <br>PostgreSQL
 </td>
 <td align="center" width="90">
-<img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="MySQL" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55" />
 <br>MySQL
 </td>
 <td align="center" width="90">
-<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="55" height="55" />
 <br>MongoDB
 </td>
 <td align="center" width="90">
-<img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="55" height="55" />
 <br>Redis
 </td>
 </tr>
@@ -262,19 +262,19 @@ print("Let's build something extraordinary! 🚀")
 <br>GitHub
 </td>
 <td align="center" width="90">
-<img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="GitLab" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="55" height="55" />
 <br>GitLab
 </td>
 <td align="center" width="90">
-<img src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg" alt="Nginx" width="55" height="55" />
-<br>Nginx
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="55" height="55" />
+<br>Kubernetes
 </td>
 <td align="center" width="90">
-<img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="55" height="55" />
 <br>Linux
 </td>
 <td align="center" width="90">
-<img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="55" height="55" />
 <br>Postman
 </td>
 </tr>
@@ -328,16 +328,6 @@ print("Let's build something extraordinary! 🚀")
 <!-- Language Stats -->
 <a href="https://github.com/akhil-vj">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-vj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&hide=jupyter%20notebook&exclude_repo=github-readme-stats" height="200" alt="Top Languages"/>
-</a>
-
-</div>
-
-<div align="center">
-<br/>
-
-<!-- Contribution Graph -->
-<a href="https://github.com/akhil-vj">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akhil-vj&theme=tokyonight" width="95%" alt="Contribution Graph"/>
 </a>
 
 </div>
