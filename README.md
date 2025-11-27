@@ -452,10 +452,10 @@ graph LR
     D --> K[Performance 70%↑]
     D --> L[Cost 40%↓]
     
-    style A fill:#00D9FF
-    style E fill:#00FF00
-    style K fill:#FFD700
-    style L fill:#FFD700
+    style A fill:#5A7A8A,stroke:#00D9FF,color:#fff
+    style E fill:#6B8E6B,stroke:#00FF00,color:#fff
+    style K fill:#9A8A5A,stroke:#FFD700,color:#fff
+    style L fill:#9A8A5A,stroke:#FFD700,color:#fff
 ```
 
 </div>
