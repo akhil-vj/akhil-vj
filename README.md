@@ -268,7 +268,7 @@ print("Let's build something extraordinary! 🚀")
 <br>GitLab
 </td>
 <td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="55" height="55" />
 <br>Kubernetes
 </td>
 <td align="center" width="90">
