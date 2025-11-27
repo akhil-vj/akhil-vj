@@ -173,7 +173,7 @@ print("Let's build something extraordinary! 🚀")
 <table>
 <tr>
 <td align="center" width="90">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/odoo/odoo.png" alt="Odoo" width="55" height="55" />
+<img src="https://img.icons8.com/color/480/odoo.png" alt="Odoo" width="55" height="55" />
 <br>Odoo
 </td>
 <td align="center" width="90">
@@ -185,7 +185,7 @@ print("Let's build something extraordinary! 🚀")
 <br>Django
 </td>
 <td align="center" width="90">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" alt="Flask" width="55" height="55" />
+<img src="https://img.icons8.com/ios-filled/250/000000/flask.png" alt="Flask" width="55" height="55" />
 <br>Flask
 </td>
 <td align="center" width="90">
