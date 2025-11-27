@@ -173,7 +173,7 @@ print("Let's build something extraordinary! 🚀")
 <table>
 <tr>
 <td align="center" width="90">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Odoo_Official_Logo.svg/200px-Odoo_Official_Logo.svg.png" alt="Odoo" width="55" height="55" />
+<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073" alt="Odoo" width="55" height="55" />
 <br>Odoo
 </td>
 <td align="center" width="90">
@@ -185,7 +185,7 @@ print("Let's build something extraordinary! 🚀")
 <br>Django
 </td>
 <td align="center" width="90">
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="55" height="55" />
+<img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Flask" width="55" height="55" />
 <br>Flask
 </td>
 <td align="center" width="90">
@@ -193,7 +193,7 @@ print("Let's build something extraordinary! 🚀")
 <br>Node.js
 </td>
 <td align="center" width="90">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="55" height="55" />
+<img src="https://skillicons.dev/icons?i=express" alt="Express" width="55" height="55" />
 <br>Express
 </td>
 </tr>
