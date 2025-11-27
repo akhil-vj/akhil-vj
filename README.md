@@ -338,22 +338,6 @@ print("Let's build something extraordinary! 🚀")
 
 <br/>
 
-## 🏆 GitHub Trophies & Achievements
-
-<div align="center">
-
-<a href="https://github.com/akhil-vj">
-  <img src="https://github-profile-trophy.vercel.app/?username=akhil-vj&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues" width="100%"/>
-</a>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
 ## 🚀 Featured Projects & Expertise
 
 <div align="center">
