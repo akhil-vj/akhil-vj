@@ -195,7 +195,7 @@ print("Let's build something extraordinary! 🚀")
 <br>Node.js
 </td>
 <td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="55" height="55" />
+<img src="https://skillicons.dev/icons?i=express" alt="Express" width="55" height="55" />
 <br>Express
 </td>
 </tr>
