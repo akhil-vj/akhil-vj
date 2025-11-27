@@ -173,7 +173,7 @@ print("Let's build something extraordinary! 🚀")
 <table>
 <tr>
 <td align="center" width="90">
-<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073" alt="Odoo" width="55" height="55" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/odoo/odoo.png" alt="Odoo" width="55" height="55" />
 <br>Odoo
 </td>
 <td align="center" width="90">
@@ -181,11 +181,11 @@ print("Let's build something extraordinary! 🚀")
 <br>FastAPI
 </td>
 <td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="55" height="55" />
+<img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" width="55" height="55" />
 <br>Django
 </td>
 <td align="center" width="90">
-<img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Flask" width="55" height="55" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" alt="Flask" width="55" height="55" />
 <br>Flask
 </td>
 <td align="center" width="90">
